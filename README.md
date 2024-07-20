@@ -52,12 +52,18 @@ User Interface
 
 How to Use:
 
-   Run the program by executing the Python script
-    Click the "Add Contact" button to add a new contact
-    Enter contact information in the provided fields
-    Click the "View Contacts" button to display the contact list
-    Select a contact to edit or delete from the list
-    Click the "Edit Contact" button to update a contact
-    Click the "Delete Contact" button to remove a contact
+   1.Run the program by executing the Python script
+   
+  2 .Click the "Add Contact" button to add a new contact
+     
+3. Enter contact information in the provided fields
+  
+4..  Click the "View Contacts" button to display the contact list
+
+  5.  Select a contact to edit or delete from the list
+   
+  6.Click the "Edit Contact" button to update a contact
+    
+  7.Click the "Delete Contact" button to remove a contact
 
 
